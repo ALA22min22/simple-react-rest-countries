@@ -31,7 +31,7 @@ const Countries = ({ countriesFetch }) => {
       {/* total visited country  */}
       <h3>Total Visited Country: {visitedCountry.length} </h3>
       {/* flag length */}
-      <h3>Visited Countery Flag: {countryFlag.length} </h3>
+      <h3>Visited Country Flag: {countryFlag.length} </h3>
 
       {/* apply loop to show the specific flag/data */}
       <div className="total-flag-design">
